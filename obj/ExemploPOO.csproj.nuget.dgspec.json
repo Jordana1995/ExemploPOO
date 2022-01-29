@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\ExemploPOO\\ExemploPOO.csproj": {}
+    "C:\\Users\\jorda\\Documents\\GitHub\\ExemploPOO\\ExemploPOO.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\ExemploPOO\\ExemploPOO.csproj": {
+    "C:\\Users\\jorda\\Documents\\GitHub\\ExemploPOO\\ExemploPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\ExemploPOO\\ExemploPOO.csproj",
+        "projectUniqueName": "C:\\Users\\jorda\\Documents\\GitHub\\ExemploPOO\\ExemploPOO.csproj",
         "projectName": "ExemploPOO",
-        "projectPath": "C:\\Workspace\\ExemploPOO\\ExemploPOO.csproj",
+        "projectPath": "C:\\Users\\jorda\\Documents\\GitHub\\ExemploPOO\\ExemploPOO.csproj",
         "packagesPath": "C:\\Users\\jorda\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\ExemploPOO\\obj\\",
+        "outputPath": "C:\\Users\\jorda\\Documents\\GitHub\\ExemploPOO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jorda\\AppData\\Roaming\\NuGet\\NuGet.Config",

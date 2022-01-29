@@ -10,8 +10,15 @@ namespace ExemploPOO
         {
 
 
+            Aluno a1 = new Aluno();
+            a1.Nome = "Fernando";
+            a1.Nota = 10;
+            a1.Apresentar();
 
-
+            Professor p1 = new Professor();
+            p1.Nome = "Daniel";
+            p1.Salario = 5.535;
+            p1.Apresentar();
 
             // ---------------------------------------------------------- 
 
@@ -32,18 +39,18 @@ namespace ExemploPOO
 
             //-------------------------------------------------------------
 
-            Aluno aluno1 = new Aluno();
-            aluno1.Nome = "Jessica";
-            aluno1.Idade = 28;
-            aluno1.Nota = 9.5;
+            // Aluno aluno1 = new Aluno();
+            // aluno1.Nome = "Jessica";
+            // aluno1.Idade = 28;
+            // aluno1.Nota = 9.5;
 
-            System.Console.WriteLine($"{aluno1.Nome} tem {aluno1.Idade} anos e tirou {aluno1.Nota} de média geral");
+            // System.Console.WriteLine($"{aluno1.Nome} tem {aluno1.Idade} anos e tirou {aluno1.Nota} de média geral");
 
-            Professor prof = new Professor();
-            prof.Nome = "Leonardo";
-            prof.Idade = 45;
+            // Professor prof = new Professor();
+            // prof.Nome = "Leonardo";
+            // prof.Idade = 45;
 
-            prof.Apresentar();
+            // prof.Apresentar();
         }
     }
 }
